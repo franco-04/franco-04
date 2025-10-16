@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/david-franco-juarez-b208b6352/">LinkedIn</a> ·
-  <a href="mailto:davidfrancojuarez7329@gmail.com">Email</a> ·
+  <a href="mailto:davidfrancojuarez07@gmail.com">Email</a> ·
   <a href="https://github.com/franco-04">GitHub</a>
 </p>
 
